@@ -1,0 +1,27 @@
+[section.begin]
+name = TestName
+path = TestPath
+version = 42
+floatValue = 56,23
+subConfigFirst = 
+          [section.begin]
+          subVersion = 7
+          SubName = SubName1
+          subPath = SubPath2
+          [section.end]
+subConfigLast = 
+          [section.begin]
+          subVersion = 89
+          SubName = SubName3
+          subPath = SubPath4
+          [section.end]
+folderInfo = 
+          [section.begin]
+          folderName = FolderInfoName
+          folderInfoInnerEntity = 
+                    [section.begin]
+                    innerField1 = 4
+                    innerField2 = 23e
+                    [section.end]
+          [section.end]
+[section.end]

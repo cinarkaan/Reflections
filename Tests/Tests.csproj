@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="TestData\tc1_in.json" />
+    <None Remove="TestData\tc1_out.txt" />
+    <None Remove="TestData\tc2_in.json" />
+    <None Remove="TestData\tc2_out.txt" />
+    <None Remove="TestData\tc3_in.json" />
+    <None Remove="TestData\tc3_out.txt" />
+    <None Remove="TestData\tc4_in.json" />
+    <None Remove="TestData\tc4_out.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="TestData\tc4_in.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\tc3_in.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\tc4_out.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\tc3_out.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\tc2_out.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\tc2_in.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\tc1_in.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\tc1_out.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
+    <PackageReference Include="NUnit" Version="3.13.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    <PackageReference Include="coverlet.collector" Version="3.0.2" />
+  </ItemGroup>
+	
+	<ItemGroup>
+		<ProjectReference Include="..\ReflectionTaskLibrary\ReflectionTaskLibrary.csproj" />
+	</ItemGroup>
+
+
+</Project>

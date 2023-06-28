@@ -1,0 +1,6 @@
+[section.begin]
+name = TestName
+path = TestPath
+version = 42
+floatValue = 56,23
+[section.end]

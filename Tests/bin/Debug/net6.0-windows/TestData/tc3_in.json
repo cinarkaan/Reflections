@@ -1,0 +1,10 @@
+{
+  "Name": "TestName",
+  "Path": "TestPath",
+  "version": 42,
+  "floatValue": 56.23,
+  "notSerializableProperty": null,
+  "InnerConfig1": null,
+  "InnerConfig2": null,
+  "FolderInfo": null
+}

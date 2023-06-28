@@ -1,0 +1,12 @@
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\bin\Debug\net6.0-windows\ReflectionTaskLibrary.deps.json
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\bin\Debug\net6.0-windows\ReflectionTaskLibrary.dll
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\bin\Debug\net6.0-windows\ReflectionTaskLibrary.pdb
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\obj\Debug\net6.0-windows\ReflectionTaskLibrary.csproj.AssemblyReference.cache
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\obj\Debug\net6.0-windows\ReflectionTaskLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\obj\Debug\net6.0-windows\ReflectionTaskLibrary.AssemblyInfoInputs.cache
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\obj\Debug\net6.0-windows\ReflectionTaskLibrary.AssemblyInfo.cs
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\obj\Debug\net6.0-windows\ReflectionTaskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\obj\Debug\net6.0-windows\ReflectionTaskLibrary.dll
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\obj\Debug\net6.0-windows\refint\ReflectionTaskLibrary.dll
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\obj\Debug\net6.0-windows\ReflectionTaskLibrary.pdb
+C:\Users\kaan-\Documents\QABootCamp\Reflections\ReflectionTask\ReflectionTaskLibrary\obj\Debug\net6.0-windows\ref\ReflectionTaskLibrary.dll

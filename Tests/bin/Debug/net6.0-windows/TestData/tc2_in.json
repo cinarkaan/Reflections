@@ -1,0 +1,25 @@
+{
+  "Name": "TestName",
+  "Path": "TestPath",
+  "version": 42,
+  "floatValue": 56.23,
+  "notSerializableProperty": "notSerializableProperty",
+  "InnerConfig1": {
+    "SubVersion": 7,
+    "SubName": "SubName1",
+    "SubPath": "SubPath2"
+  },
+  "InnerConfig2": {
+    "SubVersion": 89,
+    "SubName": "SubName3",
+    "SubPath": "SubPath4"
+  },
+  "FolderInfo": {
+    "Name": "FolderInfoName",
+    "NotSerializableProperty": 890,
+    "InnerEntity": {
+      "InnerField1": 4,
+      "InnerField2": "23e"
+    }
+  }
+}
